@@ -1,0 +1,10 @@
+.scrollable-container {
+    height: calc(100vh - 100px);
+    overflow-y: auto;
+    margin: 2rem;
+}
+
+.product-viewer-container {
+    height: 80%;
+    margin: 2rem;
+}
